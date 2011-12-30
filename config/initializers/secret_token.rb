@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-Plasticmodeldb::Application.config.secret_token = '6f3a81c9ce43a275f6fe76afb542e0204bb7162be86a4cda3ed84b22fe25c1c0f636f4bf83272976067f14b713170206b13f3eaf0a4715d0621b5a9474faa66d'
+Plasticmodeldb::Application.config.secret_token = '0522117981bc37d09f2e8a66f693637c0b14a6d1f8e91fdc326ef6b84d96a35cf18eb08667b346df6d305bfc3f30c032b006006105d5b3e170844725dcbd4fde'
